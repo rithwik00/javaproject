@@ -1,3 +1,4 @@
-Sanket Suhagiya
-Rithwik Vedpathak 
-Siddhant Vasaikar
+# Project Contributors:
+- Sanket Suhagiya
+- Rithwik Vedpathak 
+- Siddhant Vasaikar

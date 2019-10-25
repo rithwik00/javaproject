@@ -24,7 +24,3 @@ It gets removed from the database permanently.
 Each user will be given with a separate username and password.
 Each user has access to alter their records pertaining to assignment they get.
 
-# Made by:
-- Sanket Suhagiya
-- Rithwik Vedpathak
-- Siddhant Vasaikar
